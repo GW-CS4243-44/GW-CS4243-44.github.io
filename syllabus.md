@@ -90,8 +90,8 @@ Senior design enables you to focus on your own project, and push your technical 
 ### Final Package ###
  To complete the course, you must submit the Final package by the deadline May 10th. *Failure to submit the complete final package will result in no grade being assigned*
  You must submit the following:
-<b> 1. Code </b> 
-   * The most recent working version of your project's code (on Github project repo)
+<b> 1. Code </b> Discuss this with the instructor or your faculty mentor. 
+   * The most recent working version of your project's code (on your Github project repo)
    * A README file that explaints how to install all libraries needed, what paths need to be set up etc to get your project running.
    * A simple test program that can be run at the command-line that will run only if everything is correctly installed
   
