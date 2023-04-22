@@ -12,8 +12,8 @@ layout: home
         <li><b>Prof. Bhagi Narahari - Lecture Section 11 </b></li>
         <li> narahari@gwu.edu </li>
         <li> Tuesday 3:45pm -- 5:00pm , Tompkins 201 </li>
-        <li><b> Kate McNally - Lab </b> </li>
-        <li> katemcnally@gwu.edu </li>
+        <li><b> TBD - Lab </b> </li>
+        <li>   </li>
         <li> Wednesday 6:10--8:40pm, SEH 1300--1400 </li>
         <li> <b> TA resources </b> TBD </li>
     </ul>
@@ -21,16 +21,9 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
-        <li><b> Lucas Chaufournier, </b> Square </li>
-        <li><b> Pat Cody,</b> Facebook </li>
-        <li><b> Aaron Coplan,</b> Facebook </li>
-        <li><b> Kevin Deems,</b> Facebook </li>
-        <li><b> Phil Lopreiato </b>, Facebook </li> 
-        <li><b> Gregor Peach </b>, Amazon </li>
-        <li> <b> Rian Shambaugh </b>, FINRA  </li>
-        <li><b> Josh Shapiro </b>, AKASA  </li>
-        <li><b> John Shepherd,</b> Toyota Research Inst.</li>
-        <li><b> Megan Wood </b>, Ridgeline </li>
+        <li><b> TBD </li>
+        <li><b> TBD </li>
+        <li><b> TBD </li>
       </ul>
 </div>
 </div>
@@ -54,11 +47,11 @@ This is a two semester Computer Science capstone course culminating in a signifi
 ## Getting Started: Class Resources ##
 You should have received an email with a survey about project topics and teams. If you have not then contact the instructors immediately.
   - [Course Syllabus](syllabus.md)  for the complete syllabus, requirements including grading policies, submission policies, and explanations.
-  - [Current Project Teams](tutorials/project-teams.md) - these are the project teams for 2022-2023.
   - [Project Criteria](Project-Criteria.pdf) Read this document very carefully as you develop and propose your project ideas. Your project must meet the criteria specified in the Criteria document. Please read that carefully and make sure you can describe how your project proposal meets the requirements. You should also include what each team member will be responsible for.
+     + [2022-23 Projects](tutorials/project-teams.md) - links to websites of projects from Class of 2023
      + [Samples of Past Projects](https://capstone.cs.gwu.edu/) - examples of past senior design projects (some from waay back!). Browse through them to get an idea of the types of projects students have completed in the past (but these are all single person projects, so expect a larger scope for your projects since you are doing team projects).
      +  [Promotional Video of Class2021 Projects](https://youtu.be/-xHwWniwBz4)
-  - [2022-23 Project Ideas from faculty](lectures/project-ideas.pdf) If you are looking for project ideas/topics, this is a list of ideas proposed by faculty.
+  - [2022-23 Project Ideas from faculty](lectures/project-ideas.pdf) If you are looking for project ideas/topics, this is a list of ideas proposed by faculty for 2022-23 that were not picked up by any group.
   - [Blackboard](https://blackboard.gwu.edu) Your place for major announcements. We will use this space for announcements that would change the outcomes, syllabus, or deadlines of the course, and to post your grades. Individual writing assignments will need to be submitted on blackboard.
   - [Slack]() - [Join here]() Your place for adhoc and daily communication. We will use this space for communication between team members, teams, mentors and instructors. We will use the same public channel (the general channel) for any classwide communication/discussion but you will have a team channel to use for your team and mentor communications.  
   - <b> Trello </b> Your place for task management. We will use this space for managing project tasks and details. Each team will have their own Workspace to manage their project. Project mentors will have access to the project workspace. *Sign up right away for your Trello account* and provide this in the Class Logistics survey (due first week).
