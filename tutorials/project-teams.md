@@ -35,7 +35,7 @@ These are the projects  for 2022-2023 Senior Design.
 - Brandon Harvey
 - Samuel Frey
 
-### Team EldenLords - [Project: Spark](https://joseduran15.github.io/Capstone-Design-Spark/) ###
+### Team EldenLords - [Project: Spark](https://axcleri.github.io/spark-website/) ###
 - Jose Duran
 - Jay Samaraweera
 - Alexandra Kazaglis
