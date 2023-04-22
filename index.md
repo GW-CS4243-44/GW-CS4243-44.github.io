@@ -95,21 +95,21 @@ Lecture notes, when made available, are linked from the schedule below.
 | Week  | Lecture Session | Lab(Wednesday) | Work Deadlines (Sunday) 
 | :--- |:---  |:--- |:--- |
 | Week 1 <br> Aug.29th | Introductions, Project planning and Teams <br> [Course Logistics](lectures/intro.pdf) | Introductions & Meet the Mentors <br> [Methodologies, Tooling walkthrough](lectures/methodologies.pdf) | 1.[Complete the Logistics Survey](https://forms.gle/bFhX52XR6u1TsbAU6) - Sept.6 Noon <br> 2. Form Team <br> 3. Read [Project Criteria](lectures/Project-Criteria.pdf) <br> 4. Create Trello Account |  
-| Sept.5th  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/project-planning1.pdf) <br> Standup meeting with mentors |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) - by midnight, Sept.11|
-| Sept.12th | [Presentation Tips](lectures/how-to-present.pdf) & Practice <br> Meeting with instructors (project ideas) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Standup Meeting with mentors | Draft  project proposal (One page)  -Sept.18th (Post on team Slack channel ) <br>  discuss proposal draft with mentors & instructors  |
-| Sept.19th | Instructor meeting: <br> Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1.Project Proposal (blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.25th |
-| Sept.26th. | Team presentation practice <br> Sprint Planning Meeting prep | [Presentation Practice](lectures/Presentations_SprintReview.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart - Submit on your slack channel  <br> 2. Technical design discussions  <br> 3. Group feedback (optional) - email instructors |
-| Oct.3rd | Presentation feedback | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. Start draft (individual) <br>  [Writing 1:  Executive Summary](lectures/writing.md)(Elevator pitch)- Individual Submission <br> 2. Updated (if applicable) Gantt Chart |
-| Oct.10th | Presentations  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| 1. [Teamwork Survey (Required)](https://forms.gle/vMz7kZP3ds4N4P987)<br> 2. Project Website (landing page) <br> 3. [Writing 1](lectures/writing.md) <b> Due Oct.16, Blackboard. Individual submission </b>   |
-| Oct. 17th | Feedback | Feedback | 1. Start draft of [Writing 2: Technical summary](lectures/writing.md)  <br> (Individual submissions) <br> 2. Design review with mentors |  |
-| Oct.24th | Fall Break | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <b> Due Oct.30 Blackboard </b> <br> Code Review <br> with mentors |
-| Oct.31st | Sprint Planning Meeting prep | [Project Design and User Experience](lectures/ProjectUX_ArchDesign.pdf) <br> SPM with mentors| Discussion of User Interface |
-| Nov.7th | Demo Review plans <br> UI Design | <br> [Presentation and PRDs](lectures/PresentationsAndPRDs.pdf) <br> Standup meeting with mentors | Code Review 2 |
-| Nov.14th | Status report- teamwork | Alumni talk: Lean Startups <br> Standup meeting with mentors| [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.20, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
-| Nov.21st | Status meeting: <br> prep for Alpha Prototype Demo | Thanksgiving Break |  |
-| Nov.28th | Sprint Planning Meeting  | Sprint review with mentors <br> Demo Prep | Code Review 3 |
-| Dec. 5 | Status updates on Demo1 | [Presentation 3:](lectures/presentations.md) <br>  <b> [Demo 1: Alpha Prototype](lectures/presentations.md)  </b> | Writing 4 draft |
-| Dec.12th |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |  
+| Week 2 <br> Sept.5th  | Meeting w/instructors: <br> project ideas | [Project Planning: Discovery and Research](lectures/project-planning1.pdf) <br> Standup meeting with mentors |  1. Propose Project ideas <br> 2. [Submit Resume](https://blackboard.gwu.edu) - by midnight, Sept.11|
+| Week 3 <br> Sept.12th | [Presentation Tips](lectures/how-to-present.pdf) & Practice <br> Meeting with instructors (project ideas) | [Project Planning: Planning in Practice](lectures/Planning2_InPractice.pdf) <br> Standup Meeting with mentors | Draft  project proposal (One page)  -Sept.18th (Post on team Slack channel ) <br>  discuss proposal draft with mentors & instructors  |
+| Week 4 <br> Sept.19th | Instructor meeting: <br> Refined project ideas-components, HW equipment and SW needed | Mock Interviews <br> Standup meeting with mentors | 1.Project Proposal (blackboard) <br> 2. Hardware equipment and Software/data fees requests to instructors - Due Sept.25th |
+| Week 5 <br> Sept.26th. | Team presentation practice <br> Sprint Planning Meeting prep | [Presentation Practice](lectures/Presentations_SprintReview.pdf) <br> SPM1 (Review Sprint plans) with mentors| 1. Gantt Chart - Submit on your slack channel  <br> 2. Technical design discussions  <br> 3. Group feedback (optional) - email instructors |
+| Week 6 <br> Oct.3rd | Presentation feedback | [Project Development and delivery](lectures/Development_Delivery.pdf) <br> Standup Meeting with mentors | 1. Start draft (individual) <br>  [Writing 1:  Executive Summary](lectures/writing.md)(Elevator pitch)- Individual Submission <br> 2. Updated (if applicable) Gantt Chart |
+| Week 7 <br> Oct.10th | Presentations  | [Presentation 1:](lectures/presentations.md) <br> Project elevator pitch <br> [Presentations-Rubric](lectures/Presentations-Rubric.pdf) <br> Standup meeting with mentors| 1. [Teamwork Survey (Required)](https://forms.gle/vMz7kZP3ds4N4P987)<br> 2. Project Website (landing page) <br> 3. [Writing 1](lectures/writing.md) <b> Due Oct.16, Blackboard. Individual submission </b>   |
+| Week 8 <br>  Oct. 17th | Feedback | Feedback | 1. Start draft of [Writing 2: Technical summary](lectures/writing.md)  <br> (Individual submissions) <br> 2. Design review with mentors |  |
+| Week 9 <br> Oct.24th | Fall Break | [Presentation 2: Project Design](lectures/presentations.md) <br> [(Tech) Presentation 2 Rubric](lectures/tech-rubric.pdf) <br> Standup Meeting with mentors | [Writing 2](lectures/writing.md) <b> Due Oct.30 Blackboard </b> <br> Code Review <br> with mentors |
+| Week 10 <br> Oct.31st | Sprint Planning Meeting prep | [Project Design and User Experience](lectures/ProjectUX_ArchDesign.pdf) <br> SPM with mentors| Discussion of User Interface |
+| week 11 <br> Nov.7th | Demo Review plans <br> UI Design | <br> [Presentation and PRDs](lectures/PresentationsAndPRDs.pdf) <br> Standup meeting with mentors | Code Review 2 |
+|Week 12 <br>  Nov.14th | Status report- teamwork | Alumni talk: Lean Startups <br> Standup meeting with mentors| [Writing 3 (Team)](lectures/writing.md) <b> Due Nov.20, Blackboard </b> <br> includes User Interface Design Document <br> 2. Group Feedback (opt)|
+| Thanksgiving Week <br> Nov.21st | Status meeting: <br> prep for Alpha Prototype Demo | Thanksgiving Break |  |
+| Week 13 <br> Nov.28th | Sprint Planning Meeting  | Sprint review with mentors <br> Demo Prep | Code Review 3 |
+| Week 14 <br> Dec. 5 | Status updates on Demo1 | [Presentation 3:](lectures/presentations.md) <br>  <b> [Demo 1: Alpha Prototype](lectures/presentations.md)  </b> | Writing 4 draft |
+| Week 15 <br> Dec.12th |  | Team meetings if necessary | [Writing 4: Final Design Document (team)](lectures/writing.md) (Due Dec.14th) |  
 | <b> Winter Break </b> | end of CSCI 4243 |  |  |
 
 
@@ -121,24 +121,24 @@ Lecture notes, when made available, are linked from the schedule below.
 <div style="font-size:90%">
 | Week of  | Lecture Session | Lab(Wednesday) | Work Deadlines 
 | :--- |:---  |:--- |:--- |    
-| Jan 17 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
-| Jan 24 | Review course requirements <br> prepwork for Beta Demo | [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
-| Jan. 31| Sprint Planning Meeting 4| Alumni Panel: The Startup World <br> Suraj Shah, Ben Fernandez (Class of 2020), Devin Kopp (Class of 2019) <br> Sprint Review | Final Project Webpage Design | 
-| Feb.7 | Standup Meeting: <br> prep  Demo  | <b> Demo 2: Beta Prototype </b> | Teamwork Survey (required) |
-| Feb.14 | Standup Meeting: <br> Planning your presentations | Course planning <br> Money management in the real world  | 1. Draft presentation videos <br> Code reviews |
-| Feb.21 | Presentation practice  | Presentation 4: <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations |  | 
-| Feb.28 | Sprint Planning Meeting 5 | Alumni Panel <br>  Sprint Review | Code Review |
-| Mar.7 | Standup Meeting:<br> Demo 3 | <b> Demo 3: Prelim Prototype </b> | Group Feedback Survey (Reqd) |
-|  Mar.14 | SPRING | BREAK |  |
-| Mar.21 | Mock 100% Demo Discussions/planning | Alumni panel or Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
-| Mar.28 | Sprint Planning Meeting 6 | Senior Focus Group or Alumni Panel |  | 
-| Apr. 4 | Standup meeting | Mock 100% Demo presentation and Final presentations practice | Group Feedback (Opt) |
-| Apr. 11 | Standup meeting | Alumni Panel: <br> Life after college | Final presentation slides <br> Complete promotional video and upload to website |
-| Apr.18 | Sprint Planning Meeting 7 | Sprint review <br> Final presentation practice (Opt) | Code Review |
-| Apr. 25 | Final Demos | <b>  Final Presentations and 100% Demos </b>| | 
-| May 1 | Makeup | Makeup Demos | Upload videos of demos | 
-| May 10 |  | Final Package Due |  | 
-| May 17 |  | SEAS Senior Design Showcase <br> Details forthcoming | <b> Commencement </b>  | 
+| Week 1 <br> Jan 17 | Standup meeting: <br> project status review | [Project review & Updates <br> Testing and Code Reviews](lectures/Syllabus_Testing_CodeReview.pdf) | winter updates |
+| Week 2 <br> Jan 24 | Review course requirements <br> prepwork for Beta Demo | [Preparing "promotional" (commercial) presentations](lectures/Promotional_Presentations.pdf) <br> Project Status discussions (opt) | 1. Code Review <br> 2. Groupwork Feedback (Opt) |
+| Week 3 <br> Jan. 31| Sprint Planning Meeting 4| Alumni Panel: The Startup World <br> Suraj Shah, Ben Fernandez (Class of 2020), Devin Kopp (Class of 2019) <br> Sprint Review | Final Project Webpage Design | 
+| Week 4 <br> Feb.7 | Standup Meeting: <br> prep  Demo  | <b> Demo 2: Beta Prototype </b> | Teamwork Survey (required) |
+| Week 5 <br> Feb.14 | Standup Meeting: <br> Planning your presentations | Course planning <br> Money management in the real world  | 1. Draft presentation videos <br> Code reviews |
+| Week 6 <br> Feb.21 | Presentation practice  | Presentation 4: <br> Final "promotional" presentation (elevator pitch) <br> 3 minute presentation, rubric similar earlier presentations |  | 
+| week 7 <br> Feb.28 | Sprint Planning Meeting 5 | Alumni Panel <br>  Sprint Review | Code Review |
+| Week 8 <br>  Mar.7 | Standup Meeting:<br> Demo 3 | <b> Demo 3: Prelim Prototype </b> | Group Feedback Survey (Reqd) |
+| Spring Break | SPRING | BREAK |  |
+| Week 9 <br> Mar.21 | Mock 100% Demo Discussions/planning | Alumni panel or Senior Focus Group  | Code reviews <br> Plan your mock 100% Demo |
+| Week 10 <br> Mar.28 | Sprint Planning Meeting 6 | Senior Focus Group or Alumni Panel |  | 
+| Week 11 <br> Apr. 4 | Standup meeting | Mock 100% Demo presentation and Final presentations practice | Group Feedback (Opt) |
+| Week 12 <br> Apr. 11 | Standup meeting | Alumni Panel: <br> Life after college | Final presentation slides <br> Complete promotional video and upload to website |
+| Week 13 <br> Apr.18 | Sprint Planning Meeting 7 | Sprint review <br> Final presentation practice (Opt) | Code Review |
+| Week 14 <br> Apr. 25 | Final Demos | <b>  Final Presentations and 100% Demos </b>| | 
+| Week 15 <br> May 1 | Makeup | Makeup Demos | Upload videos of demos | 
+| Week 16 <br> May 10 |  | Final Package Due |  | 
+| Commencement Week <br> May 17 |  | SEAS Senior Design Showcase <br> Details forthcoming | <b> Commencement </b>  | 
 
 
 </div> 
