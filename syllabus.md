@@ -10,7 +10,8 @@ permalink: /syllabus/
 **Prerequisites:** Senior status, CSCI 3212, CSCI 3411 
 
 **Time/Place:**
-  * **Class meets: Tuesday 2:10--3:20pm Tompkins 201 (Section 10) or Tuesday 3:35-4:40pm SEH 1300-1400 (Section 11), and Wednesday 6:10-8:40pm SEH 1300-1450(Lab)**
+  * **Class meets: (Fall Semester) Tuesday 2:10--3:20pm Tompkins 201 (Section 10) or Tuesday 3:35-4:40pm SEH 1300-1400 (Section 11), and Wednesday 6:10-8:40pm SEH 1300-1450(Lab)**
+  * **(Spring Semester) Tuesday 3:45-5pm. (both sections) and Wednesday 6:10-8:40pm (Labs) **
 
 **Office Hours:**
 Check Slack for most updated ones.
@@ -64,28 +65,28 @@ There are no textbooks for this course. Each project team is expected to identif
 ### Class Meetings ###
 
 The course is structured to have several types of (non-standard) meetings during each semester. At the high level, these different types are:
- * <b> Lectures/presentations/Demo/Interviews:</b> These are held during the scheduled Wednesday class sessions. 
+ * <b> Lectures/presentations/Demo/Interviews:</b> These are held, for the most part, during the scheduled Wednesday class sessions. 
  * <b> Standup meetings:</b> A Standup Meeting (Agile methodology) is a weekly high level project status meeting between the team and the project instructor/mentor. Each team will meet with their technical mentor and/or course instructor for their standup meeting. During this meeting, we ask our team members three types of question, in order to most efficiently make progress on the project. See [Course Main page](index.md) for more details.
- * <b> Sprint Planning Meeting (SPM): </b> A Sprint Planning Meeting (Agile methodology) is a monthly meeting in which the team sets the goals and tasks they choose to commit to for the next month. The group determines which Backlog items will be handled in the next sprint. These are documented using Trello. *Teams should come to these meeting with all the cards they will work on for the following month*.
+ * <b> Sprint Planning Meeting (SPM): </b> A Sprint Planning Meeting (Agile methodology) is a monthly meeting in which the team sets the goals and tasks they choose to commit to for the next month. The group determines which Backlog items will be handled in the next sprint. These are documented using Trello. *Teams should go to these meeting with all the cards they will work on for the following month*.
  
 ## Assessments (Requirements) ##
  * Submit all assignments/deliverables in the specified location; code on github, updates on Trello, writing on Blackboard, videos on shared drive (or Github) etc. Submit Group Feedback by email to your mentor (see “Group Feedback” below).
- * As you plan your sprints, keep in mind anyone taking vacation, school holidays or breaks, or other major events to plan into your schedules.
+ * As you plan your sprints, keep in mind anyone taking vacation, school holidays or breaks, or other major events need to schedule around the sprints.
  * Your mentors are there to help guide you through your projects, help unblock you when you're stuck on anything, and report back to your instructors on your progress. 
  * Your Trello board is your source of truth on task progress. Your goal is to move all tasks from Idea to Code Complete as efficiently as possible. If your Trello isn’t updated, your mentor has no way to gauge your progress and help you move forward.
 
 ### Written Assignments ###
-[Writing assignments](lectures/writing.md) help you practice communicating your idea and putting it into a broader context. Whether in industry or in academia, you’ll need to “sell” and communicate your idea to someone willing to support it. The writing assignments have the deadlines specified in the schedule and requirements linked from the schedule. You will use <b> Blackboard </b> to submit your individual written assignments; final design documents will be submitted in your Github project repo.
+[Writing assignments](lectures/writing.md) help you practice communicating your idea and putting it into a broader context. Whether in industry or in academia, you’ll need to “present, promote” and communicate your idea to someone willing to support it. The writing assignments have the deadlines specified in the schedule and requirements linked from the schedule. You will use <b> Blackboard </b> to submit your individual written assignments; final design documents will be submitted in your Github project repo.
  
 ### Presentation Assignments ###
 Senior design enables you to focus on your own project, and push your technical capabilities through it. However, it is very important to learn how to successfully communicate (verbally as well as written) what you’re doing, and why it is cool with the outside world. It is'nt enough to technically complete your project. You also need to sell it! Presentation skills are very important and relatively rare in graduating undergrads. Thus a good portion of SD will focus on your presentation skills, and will include presenting to different audiences. The [presentation deadlines and requirements](lectures/presentations.md) will be specified in the [course schedule](index.md). You will use <b> Github </b>  and/or google drive to submit your final team project presentations.
  
 ### Demos (Checkpoints) ###
  There are four substantive demos (you can view these as major project checkpoints) during the two semesters (Fall and Spring). As part of your project planning (early in fall) the mentors will help you identify the deliverables/demo for each of these checkpoints and we assess your progress based on this. To meet requirements each of the four demo/checkins, must have implemented some part(s) of your final software system (therefore a report or a design document by itself will not meet the criteria for any of the four checkpoints).
- * 1: Alpha Prototype 
- * 2: Beta Prototype
- * 3: Prototype Preliminary Demo
- * 4: Final Demo
+ * 1: Alpha Prototype (end of Fall semester)
+ * 2: Beta Prototype (one month into Spring semester)
+ * 3: Prototype Preliminary Demo (before Spring break)
+ * 4: Final Demo (last week of classes)
  
 ### Final Package ###
  To complete the course, you must submit the Final package by the deadline May 10th. *Failure to submit the complete final package will result in no grade being assigned*
