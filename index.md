@@ -13,7 +13,6 @@ layout: home
         <li> narahari@gwu.edu </li>
         <li> Tuesday 3:45pm -- 5:00pm , Tompkins 201 </li>
         <li><b> TBD - Lab </b> </li>
-        <li>   </li>
         <li> Wednesday 6:10--8:40pm, SEH 1300--1400 </li>
         <li> <b> TA resources </b> TBD </li>
     </ul>
@@ -21,9 +20,9 @@ layout: home
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b> Technical Mentors </b> </li>
-        <li><b> TBD </li>
-        <li><b> TBD </li>
-        <li><b> TBD </li>
+        <li><b> TBD </b> </li>
+        <li><b> TBD </b> </li>
+        <li><b> TBD </b> </li>
       </ul>
 </div>
 </div>
