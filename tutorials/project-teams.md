@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Senior Design Project Teams and Projects - 2022-23 
+title: Senior Design Projects - 2022-23 
 ---
 
 ### Team assignment (based on student requests) ### 
 <b>  Project and Team Names  </b>
 
-These are the project teams for 2022-2023 Senior Design (and are subject to change if necessary). If you did not form a team, we will form your team in the first week of classes (or before).
-The project teams are listed below by lecture section number.
+These are the projects  for 2022-2023 Senior Design.
 
-## Section 10 Instructor: Prof Pless ##
-### Team Supercode- [Project: CarCow](https://alzaabi2.github.io/carcow.github.io/) ###
+
+### Team Supercode- [Project: WheelDeal](https://alzaabi2.github.io/carcow.github.io/) ###
 - Abdullah Almayoof
 - Saif Alzaabi
 - Dakharai Murray
@@ -29,12 +28,12 @@ The project teams are listed below by lecture section number.
 ### Team DataSafety - [Project: DataSafety Labels](https://ekorkes.github.io/dataSafetyLabels/) ###
 - Elena Korkes
 - Victoria Henneman
+- Faculty Mentor: Prof Adam Aviv
 
 ### Team 14 - [Project: UPE - Ultimate Prediction Engine](https://sdesign-sbpk.github.io/) ###
 - Philip Di Giorgio
 - Brandon Harvey
 - Samuel Frey
-- Karim Alami
 
 ### Team EldenLords - [Project: Spark](https://joseduran15.github.io/Capstone-Design-Spark/) ###
 - Jose Duran
@@ -44,7 +43,6 @@ The project teams are listed below by lecture section number.
 ### Inter-departmental Project team ###
 - Huzeyfa Telha
 
-## Section 11 . Instructor: Prof Narahari
 
 ### Team Corn - [Project LetsEat](https://menglander2019.github.io/LetsEat-Dev/website/) ###
 - Zachary Bloomstein
@@ -67,7 +65,7 @@ The project teams are listed below by lecture section number.
 - Ryan Hudson
 - Austin Theriault
 
-### Team CSJ - [Project: BookCyle](https://aboutbookcycle.my.canva.site/) ###
+### Team CSJ - [Project: BookCyle](https://corasula.github.io/) ###
 - Subin Heo
 - James Scott
 - Cora Sula
