@@ -9,7 +9,7 @@ title: Senior Design Projects - 2022-23
 These are the projects  for 2022-2023 Senior Design.
 
 
-### Team Supercode- [Project: WheelDeal](https://alzaabi2.github.io/carcow.github.io/) ###
+### Team Supercode- [Project: WheelDeal](https://wheeldealapp.github.io/) ###
 - Abdullah Almayoof
 - Saif Alzaabi
 - Dakharai Murray
