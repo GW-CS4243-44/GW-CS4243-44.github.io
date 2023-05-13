@@ -70,7 +70,7 @@ These are the projects  for 2022-2023 Senior Design.
 - James Scott
 - Cora Sula
 
-### Team CodeVWade - Project CodeVWade ###
+### Team CodeVWade - [Project CodeVWade](https://olegault.github.io/SeniorDesignWebsite/) ###
 - Miles Grant
 - Rubin Roy
 - Olivia Legault
